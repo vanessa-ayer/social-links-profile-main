@@ -1,6 +1,6 @@
 # Frontend Mentor - Social Links Profile
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub).
 
 ## Table of contents
 
@@ -22,10 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop-design](/design/social_links_profile_final_screenshot.png)
+
 ### Links
 
 - Solution URL:
-- Live Site URL:
+- Live Site URL: https://vanessa-ayer.github.io/social-links-profile-main/
 
 ### Built with
 
